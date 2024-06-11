@@ -1,0 +1,7 @@
+{
+    "host" : "localhost",
+    "format" : "utf8",
+    "header" : 4096,
+    "disconnect_message" : "salir"
+
+}
